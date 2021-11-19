@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android Validate</string>
+    <string-array name="type">
+        <item>-- Select Apartment Type --</item>
+        <item>Flat</item>
+        <item>House</item>
+        <item>Bungalow</item>
+    </string-array>
+    <string name="type">Type</string>
+    <string name="bedRoom">Bed room</string>
+    <string name="priceByMonth">Price by month</string>
+    <string name="furniture">Furniture</string>
+    <string name="reporterName">Reporter</string>
+    <string name="note">Note</string>
+    <string name="createdAt">Created at</string>
+    <string name="part_furnished">Part Furnished</string>
+    <string name="unfurnished">Unfurnished</string>
+    <string name="furnished">Furnished</string>
+
+    <string name="submit">Submit</string>
+</resources>
